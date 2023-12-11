@@ -1,0 +1,7 @@
+requests
+random
+smtplib
+MIMEText
+MIMEBase
+MIMEMultipart
+ssl
